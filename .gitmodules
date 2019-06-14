@@ -52,3 +52,12 @@
 [submodule "PCBs/3D-printer-board"]
 	path = PCBs/3D-printer-board
 	url = git@github.com:louiscklaw/3D-printer-board.git
+[submodule "pcb-art-work"]
+	path = pcb-art-work
+	url = git@github.com:louiscklaw/pcb-art-work.git
+[submodule "_refs/OLINUXINO"]
+	path = _refs/OLINUXINO
+	url = git@github.com:OLIMEX/OLINUXINO.git
+[submodule "_refs/VB-IoT1"]
+	path = _refs/VB-IoT1
+	url = git@github.com:venseytech/VB-IoT1.git
