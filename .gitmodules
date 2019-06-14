@@ -1,0 +1,54 @@
+[submodule "lib_value_generator"]
+	path = lib_value_generator
+	url = git@github.com:louiscklaw/lib_value_generator.git
+[submodule "kicad_library"]
+	path = kicad_library
+	url = git@github.com:louiscklaw/kicad_library.git
+[submodule "PCBs/12V_power_supply_tryout"]
+	path = PCBs/12V_power_supply_tryout
+	url = git@github.com:louiscklaw/12V_power_supply_tryout.git
+[submodule "PCBs/ai-thinker-tryout"]
+	path = PCBs/ai-thinker-tryout
+	url = git@github.com:louiscklaw/ai-thinker-tryout.git
+[submodule "PCBs/cnc-milling-test-pattern"]
+	path = PCBs/cnc-milling-test-pattern
+	url = git@github.com:louiscklaw/cnc-milling-test-pattern.git
+[submodule "PCBs/tryout-gallery"]
+	path = PCBs/tryout-gallery
+	url = git@github.com:louiscklaw/tryout-gallery.git
+[submodule "PCBs/CNC-PCB-revamp"]
+	path = PCBs/CNC-PCB-revamp
+	url = git@github.com:louiscklaw/CNC-PCB-revamp.git
+[submodule "PCBs/DIY-fume-extractor"]
+	path = PCBs/DIY-fume-extractor
+	url = git@github.com:louiscklaw/DIY-fume-extractor.git
+[submodule "PCBs/USB-DAC-PCM2902"]
+	path = PCBs/USB-DAC-PCM2902
+	url = git@github.com:louiscklaw/USB-DAC-PCM2902.git
+[submodule "PCBs/esp12-lora-remote-station-tryout"]
+	path = PCBs/esp12-lora-remote-station-tryout
+	url = git@github.com:louiscklaw/esp12-lora-remote-station-tryout.git
+[submodule "PCBs/follower-counter-tryout"]
+	path = PCBs/follower-counter-tryout
+	url = git@github.com:louiscklaw/follower-counter-tryout.git
+[submodule "PCBs/power-board-tryout"]
+	path = PCBs/power-board-tryout
+	url = git@github.com:louiscklaw/power-board-tryout.git
+[submodule "PCBs/ramps-schematic-tryout"]
+	path = PCBs/ramps-schematic-tryout
+	url = git@github.com:louiscklaw/ramps-schematic-tryout.git
+[submodule "PCBs/rpi-adc-dac"]
+	path = PCBs/rpi-adc-dac
+	url = git@github.com:louiscklaw/rpi-adc-dac.git
+[submodule "PCBs/stm32_aux_keyboard"]
+	path = PCBs/stm32_aux_keyboard
+	url = git@github.com:louiscklaw/stm32_aux_keyboard.git
+[submodule "PCBs/stm32_bottom_board_respin"]
+	path = PCBs/stm32_bottom_board_respin
+	url = git@github.com:louiscklaw/stm32_bottom_board_respin.git
+[submodule "PCBs/stm32-hid-tryout"]
+	path = PCBs/stm32-hid-tryout
+	url = git@github.com:louiscklaw/stm32-hid-tryout.git
+[submodule "PCBs/3D-printer-board"]
+	path = PCBs/3D-printer-board
+	url = git@github.com:louiscklaw/3D-printer-board.git
