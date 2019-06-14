@@ -61,3 +61,12 @@
 [submodule "_refs/VB-IoT1"]
 	path = _refs/VB-IoT1
 	url = git@github.com:venseytech/VB-IoT1.git
+[submodule "_tools/PcbDraw/examples/ArduinoLearningKitStarter"]
+	path = _tools/PcbDraw/examples/ArduinoLearningKitStarter
+	url = git@github.com:venseytech/ArduinoLearningKitStarter.git
+[submodule "_tools/PcbDraw/examples/PcbDraw-Lib"]
+	path = _tools/PcbDraw/examples/PcbDraw-Lib
+	url = git@github.com:yaqwsx/PcbDraw-Lib.git
+[submodule "_tools/flatcam"]
+	path = _tools/flatcam
+	url = https://bitbucket.org/jpcgt/flatcam.git
